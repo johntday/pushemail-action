@@ -1,5 +1,5 @@
 {
-  "name": "issue-notifier",
+  "name": "pushemail-action",
   "version": "1.0.0",
   "description": "Automates sending a notification upon labeling of an issue",
   "main": "index.js",
@@ -10,18 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timheuer/issue-notifier.git"
+    "url": "git+https://github.com/johntday/pushemail-action.git"
   },
   "keywords": [
     "GitHub",
     "Actions",
     "Issues"
   ],
-  "author": "@timheuer",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/timheuer/issue-notifier/issues"
-  },
+  "author": "@johntday",
   "homepage": "https://github.com/timheuer/issue-notifier#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
