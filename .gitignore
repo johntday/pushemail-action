@@ -5,6 +5,10 @@ node_modules/
 .vscode
 .vs
 
+# Lock files
+*.lock
+*.lock.json
+
 # Logs
 logs
 *.log
@@ -68,4 +72,3 @@ typings/
 
 # mac-os
 .DS_Store
-dist2/
